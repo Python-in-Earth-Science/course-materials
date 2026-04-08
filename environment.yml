@@ -1,0 +1,9 @@
+name: ees3350
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - jupyterlab
+  - pandas
+prefix: C:\Users\susan\miniforge3\envs\ees3350
