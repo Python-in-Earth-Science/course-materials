@@ -1,0 +1,10 @@
+# Answer keys - never push these
+*_answers.*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# OS clutter
+.DS_Store
+Thumbs.db
