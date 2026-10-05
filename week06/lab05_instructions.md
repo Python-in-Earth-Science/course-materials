@@ -1,5 +1,7 @@
 # Lab 05: Loops on Nashville's Climate (Temperature Edition)
 
+> **Version 2**. New since version 1: a commit-and=push checkpoint after Exercise 3.
+
 **EES 3350/5350 · Python in Earth Science · Monday, October 2026**</p>
 **Due:** Wednesday, October 07, at 11:59pm, submitted by pushing to your assignment repo.
 
@@ -40,7 +42,7 @@ seasons = {'winter': ['December', 'January', 'February'],
            'fall':   ['September', 'October', 'November']}
 ```
 
-`cliamte` is a **dictionary of dictionaries**: each key is a month and each value is another dictionary of that month's numbers. To get one number, use two keys in a row: `climate['July']['tmax']` is July's average high.
+`climate` is a **dictionary of dictionaries**: each key is a month and each value is another dictionary of that month's numbers. To get one number, use two keys in a row: `climate['July']['tmax']` is July's average high.
 
 | Key| What it is|
 |--|--|
@@ -105,6 +107,20 @@ Midsummer has no freezing nights, so start every seartch in **July** (position 6
 
 **Question 2:** Based on your two answers, which months of the year have no freezing nights at all, on average?
     
+</div>
+
+<div class="alert alert-danger">
+    
+### CHECKPOINT: commit and push
+
+Save your notebook, then:
+```
+git add lab05_LastName.ipynb
+git commit -m "Finish Exercises 1-3"
+git push
+```
+Committing as you go means your work is saved on GitHub even if you don't finish today. I'll  be looking for a history of these exact three commands in your repository.
+
 </div>
 
 
