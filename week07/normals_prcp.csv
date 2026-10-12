@@ -1,0 +1,16 @@
+# Monthly normal total precipitation (in), 1991-2020, for six U.S. stations. One row per station, one column per month (Jan ... Dec).
+# Source: NOAA National Centers for Environmental Information (NCEI), U.S. Climate Normals 1991-2020 (dataset normals-monthly-1991-2020),
+#         accessed 2026-10-11 via the NCEI Access Data Service.
+# Rows, in order:
+#   row 0: Nashville, TN (Nashville Intl AP, station USW00013897)
+#   row 1: Denver, CO (Denver Intl AP, station USW00003017)
+#   row 2: Phoenix, AZ (Phoenix Sky Harbor Intl AP, station USW00023183)
+#   row 3: Seattle, WA (Seattle-Tacoma Intl AP, station USW00024233)
+#   row 4: Minneapolis, MN (Minneapolis-St. Paul Intl AP, station USW00014922)
+#   row 5: Utqiagvik, AK (Utqiagvik (Barrow) Airport, station USW00027502)
+4.02,4.47,4.52,4.72,5.02,4.36,4.16,3.79,3.80,3.36,3.86,4.43
+0.38,0.41,0.86,1.68,2.16,1.94,2.14,1.58,1.35,0.99,0.64,0.35
+0.87,0.87,0.83,0.22,0.13,0.02,0.91,0.93,0.57,0.56,0.57,0.74
+5.78,3.76,4.17,3.18,1.88,1.45,0.60,0.97,1.61,3.91,6.31,5.72
+0.89,0.87,1.68,2.91,3.91,4.58,4.06,4.34,3.02,2.58,1.61,1.17
+0.14,0.21,0.18,0.18,0.28,0.43,0.98,1.09,0.77,0.54,0.37,0.22
