@@ -1,0 +1,16 @@
+# Monthly normal average temperature (F), 1991-2020, for six U.S. stations. One row per station, one column per month (Jan ... Dec).
+# Source: NOAA National Centers for Environmental Information (NCEI), U.S. Climate Normals 1991-2020 (dataset normals-monthly-1991-2020),
+#         accessed 2026-10-11 via the NCEI Access Data Service.
+# Rows, in order:
+#   row 0: Nashville, TN (Nashville Intl AP, station USW00013897)
+#   row 1: Denver, CO (Denver Intl AP, station USW00003017)
+#   row 2: Phoenix, AZ (Phoenix Sky Harbor Intl AP, station USW00023183)
+#   row 3: Seattle, WA (Seattle-Tacoma Intl AP, station USW00024233)
+#   row 4: Minneapolis, MN (Minneapolis-St. Paul Intl AP, station USW00014922)
+#   row 5: Utqiagvik, AK (Utqiagvik (Barrow) Airport, station USW00027502)
+39.6,43.4,51.5,60.8,69.3,77.1,80.7,79.7,73.1,61.7,50.3,42.7
+31.7,32.7,41.6,47.8,57.4,68.2,75.1,72.9,64.8,51.1,39.4,31.2
+56.8,59.9,66.3,73.2,82.0,91.4,95.5,94.4,89.2,77.4,65.1,55.8
+42.8,44.0,47.1,51.3,57.5,62.0,67.1,67.4,62.6,53.8,46.5,42.0
+16.2,20.6,33.3,47.1,59.5,69.7,74.3,71.8,63.5,49.5,34.8,22.0
+-11.5,-11.9,-10.5,4.0,22.7,36.0,41.7,39.8,33.7,21.2,5.7,-6.3
