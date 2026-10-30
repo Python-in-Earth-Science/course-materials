@@ -1,0 +1,9 @@
+Year;Front variation (m);Cumulative front variation (m);Method;Owner;Source
+;;;;;
+;;;;;
+      Codes method;;;;;
+0;Unknown;;;;
+1;Distance from fixed point;;;;
+2;Orthophoto or map;;;;
+3;Satellite image;;;;
+4;Reconstructed;;;;
