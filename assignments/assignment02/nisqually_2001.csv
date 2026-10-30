@@ -1,0 +1,22 @@
+# 2001 Nisqually, Washington earthquake: every event in the USGS ComCat catalog within 50 km of the mainshock epicenter, 2001-02-28 to 2001-03-07 (UTC).
+# Source: U.S. Geological Survey, Advanced National Seismic System Comprehensive Catalog (ComCat), accessed 2026-10-11 via
+#         https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2001-02-28&endtime=2001-03-08&latitude=47.149&longitude=-122.727&maxradiuskm=50&orderby=time-asc
+# Columns: hours (time after the mainshock, hours; negative = before), latitude (deg N), longitude (deg E, negative = west),
+#          depth (km), magnitude (nan = not reported), is_earthquake (1 = earthquake, 0 = explosion such as a quarry or mine blast)
+# Mainshock: 2001-02-28T18:54:32.830Z UTC, M6.8 (md), depth 51.8 km.
+0.00000,47.1490,-122.7267,51.80,6.80,1
+0.12511,47.1843,-122.7295,52.12,1.00,1
+4.85080,47.2242,-122.6782,25.61,1.20,1
+5.92693,47.4472,-122.8953,11.24,1.70,1
+14.26336,47.1970,-122.7133,54.21,3.40,1
+14.84122,47.4487,-122.9277,8.30,1.40,1
+19.48376,47.1802,-122.7293,51.23,2.70,1
+27.43613,46.7432,-122.7973,4.55,2.20,0
+43.74357,47.5817,-122.7508,19.18,1.40,1
+51.46863,46.7023,-122.7798,-0.62,2.50,0
+51.87712,47.5840,-122.7565,16.33,1.40,1
+56.49295,47.2172,-122.7000,27.89,1.30,1
+97.09377,46.7155,-122.7857,-1.03,2.90,0
+123.66981,46.7468,-122.8083,1.17,2.20,0
+147.75598,46.7492,-122.8008,0.85,2.70,0
+171.80661,46.7580,-122.7950,0.25,2.90,0
