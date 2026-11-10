@@ -36,9 +36,20 @@ Everyone has their own folder, so you won't overwrite each other. Your draft mus
 5. **Push your feedback.** Never commit changes to someone else's notebook. Run `git restore drafts/` to throw away the outputs from running their notebook, then `git add` only your feedback file, `commit`, and `push`.
 
 ### Your revision plan
-Read the feedback on your draft, then write `revision_plan.md` in **your own final-project repo** (not the review repo): the three changes you'll make before 12/15, and why. Commit and push it before you leave lab.
+Read the feedback on your draft, then write `revision_plan.md` in **your own final-project repo** (not the review repo): the three changes you'll make before 12/15, and why. Commit and push it before you leave lab. Note, you must create this file. Here's a template you can use for the content:
 
----
+```markdown
+# Revision plan for <your name>
+
+**Feedback I got:** <the 1-2 comments that mattered most>
+
+**Change 1:** <what you'll change> - **Why:** <which feedback, or what you noticed>
+**Change 2:** *...*
+**Change 3:** *...*
+
+**Feedback I'm not acting on and why:** <optional>
+
+```
 
 ## Feedback template
 ```markdown
